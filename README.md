@@ -4,4 +4,4 @@
 ## Соискание должности 
 junior
 
-![local foto](C:\Users\Пользователь\IT\Resume\cropped-IMG_0426.JPG)
+![cropped-IMG_0426](https://user-images.githubusercontent.com/120330434/229581420-1e4d6990-de47-4941-a80a-46c1e77e70ec.JPG)
